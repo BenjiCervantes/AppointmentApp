@@ -7,9 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Entities\**" />
-    <EmbeddedResource Remove="Entities\**" />
-    <None Remove="Entities\**" />
+    <Compile Remove="Entities2\**" />
+    <EmbeddedResource Remove="Entities2\**" />
+    <None Remove="Entities2\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Appointment.cs" />
+    <Compile Remove="Patient.cs" />
+    <Compile Remove="User.cs" />
   </ItemGroup>
 
 </Project>
