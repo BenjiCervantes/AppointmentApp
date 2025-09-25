@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\b-e-n\\OneDrive\\Escritorio\\NET\\AppointmentApp\\AppointmentApp\\src\\AppointmentApp.Application\\AppointmentApp.Application.csproj",
+      "projectUniqueName": "C:\\repos\\AppointmentApp\\AppointmentApp\\src\\AppointmentApp.Application\\AppointmentApp.Application.csproj",
       "projectName": "AppointmentApp.Application",
-      "projectPath": "C:\\Users\\b-e-n\\OneDrive\\Escritorio\\NET\\AppointmentApp\\AppointmentApp\\src\\AppointmentApp.Application\\AppointmentApp.Application.csproj",
+      "projectPath": "C:\\repos\\AppointmentApp\\AppointmentApp\\src\\AppointmentApp.Application\\AppointmentApp.Application.csproj",
       "packagesPath": "C:\\Users\\b-e-n\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\b-e-n\\OneDrive\\Escritorio\\NET\\AppointmentApp\\AppointmentApp\\src\\AppointmentApp.Application\\obj\\",
+      "outputPath": "C:\\repos\\AppointmentApp\\AppointmentApp\\src\\AppointmentApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

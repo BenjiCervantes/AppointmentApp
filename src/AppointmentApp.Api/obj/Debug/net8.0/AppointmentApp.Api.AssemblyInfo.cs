@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointmentApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af8acb23fc995de5c1a065e5bc5978ab716db1b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9b2db63bfcd1d472c1c036afe4510d757a7d87")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointmentApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointmentApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

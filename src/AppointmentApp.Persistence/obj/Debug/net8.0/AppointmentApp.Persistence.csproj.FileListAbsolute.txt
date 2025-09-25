@@ -1,0 +1,12 @@
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\bin\Debug\net8.0\AppointmentApp.Persistence.deps.json
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\bin\Debug\net8.0\AppointmentApp.Persistence.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\bin\Debug\net8.0\AppointmentApp.Persistence.pdb
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.AssemblyInfoInputs.cache
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.AssemblyInfo.cs
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.csproj.CoreCompileInputs.cache
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.sourcelink.json
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\refint\AppointmentApp.Persistence.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.pdb
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\ref\AppointmentApp.Persistence.dll

@@ -1,0 +1,12 @@
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\bin\Debug\net8.0\AppointmentApp.Domain.deps.json
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\bin\Debug\net8.0\AppointmentApp.Domain.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\bin\Debug\net8.0\AppointmentApp.Domain.pdb
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.AssemblyInfoInputs.cache
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.AssemblyInfo.cs
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.csproj.CoreCompileInputs.cache
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.sourcelink.json
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\refint\AppointmentApp.Domain.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\AppointmentApp.Domain.pdb
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Domain\obj\Debug\net8.0\ref\AppointmentApp.Domain.dll
