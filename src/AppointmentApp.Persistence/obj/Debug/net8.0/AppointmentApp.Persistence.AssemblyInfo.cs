@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointmentApp.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+582922272e5e38d13dd317a2a2daca51b5425cae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b972eefe7b557ca3e21e8697ac5e3e1282f7cd72")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointmentApp.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointmentApp.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
