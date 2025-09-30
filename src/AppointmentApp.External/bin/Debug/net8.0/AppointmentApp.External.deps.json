@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppointmentApp.External/1.0.0": {
+        "runtime": {
+          "AppointmentApp.External.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppointmentApp.External/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

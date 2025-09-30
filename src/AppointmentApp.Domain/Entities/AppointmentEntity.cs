@@ -18,7 +18,7 @@ namespace AppointmentApp.Domain.Entities
 
         [ForeignKey("UserId")]
         public virtual UserEntity User { get; set; }
-        [ForeignKey("Patient")]
+        [ForeignKey("PatientId")]
         public virtual PatientEntity Patient { get; set; }
 
     }

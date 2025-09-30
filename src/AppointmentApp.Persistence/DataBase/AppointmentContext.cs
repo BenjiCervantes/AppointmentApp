@@ -1,6 +1,5 @@
 ﻿using AppointmentApp.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 
 namespace AppointmentApp.Persistence.DataBase
 {

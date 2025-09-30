@@ -10,3 +10,9 @@ C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\
 C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\refint\AppointmentApp.Persistence.dll
 C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.pdb
 C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\ref\AppointmentApp.Persistence.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\bin\Debug\net8.0\AppointmentApp.Persistence.runtimeconfig.json
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\bin\Debug\net8.0\AppointmentApp.Domain.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\bin\Debug\net8.0\AppointmentApp.Domain.pdb
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.csproj.AssemblyReference.cache
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\Appointm.F5FA5544.Up2Date
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Persistence\obj\Debug\net8.0\AppointmentApp.Persistence.genruntimeconfig.cache
