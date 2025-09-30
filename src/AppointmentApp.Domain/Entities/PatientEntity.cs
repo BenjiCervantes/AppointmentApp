@@ -13,6 +13,6 @@ namespace AppointmentApp.Domain.Entities
         public string PhoneNumber { get; set; }
         public string PatientDescription { get; set; }
 
-        public virtual AppointmentEntity Appointment { get; set; }
+        public ICollection<AppointmentEntity> Appointment { get; set; }
     }
 }

@@ -14,6 +14,6 @@ namespace AppointmentApp.Domain.Entities
         public string Password { get; set; }
         public string UserType { get; set; }
 
-        public virtual AppointmentEntity Appointment { get; set; }
+        public ICollection<AppointmentEntity> Appointment { get; set; }
     }
 }

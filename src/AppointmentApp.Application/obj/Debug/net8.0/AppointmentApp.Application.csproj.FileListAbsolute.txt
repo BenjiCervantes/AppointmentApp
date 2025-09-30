@@ -10,3 +10,7 @@ C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\obj\Debug\
 C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\obj\Debug\net8.0\refint\AppointmentApp.Application.dll
 C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\obj\Debug\net8.0\AppointmentApp.Application.pdb
 C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\obj\Debug\net8.0\ref\AppointmentApp.Application.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\bin\Debug\net8.0\AppointmentApp.Domain.dll
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\bin\Debug\net8.0\AppointmentApp.Domain.pdb
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\obj\Debug\net8.0\AppointmentApp.Application.csproj.AssemblyReference.cache
+C:\repos\AppointmentApp\AppointmentApp\src\AppointmentApp.Application\obj\Debug\net8.0\Appointm.F1552893.Up2Date

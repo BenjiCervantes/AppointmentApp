@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AppointmentApp.Application\AppointmentApp.Application.csproj" />
     <ProjectReference Include="..\AppointmentApp.Domain\AppointmentApp.Domain.csproj" />
   </ItemGroup>
 
